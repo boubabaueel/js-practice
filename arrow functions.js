@@ -8,3 +8,4 @@ let isPositive = number => number >=0;
 console.log(isPositive(-1));
 console.log(isPositive(3));
 
+console.log(sum(23,9));
