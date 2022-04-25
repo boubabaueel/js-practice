@@ -26,3 +26,4 @@ function timesten(age ){
     return age * 10
 }
 console.log(timesten(2))
+

@@ -73,6 +73,9 @@ function sentence(length){
     else if( length <=10){
         return "close"
     }
+    else if( length >10){
+        return "above"
+    }
     else{ return "great"}
     }
     console.log(sentence(2));

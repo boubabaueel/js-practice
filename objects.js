@@ -14,3 +14,4 @@ console.log(age);
 
 delete person.friends;
 console.log(person);
+
